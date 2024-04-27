@@ -1,15 +1,58 @@
 # Sr. Shopify Developer
 
-#### Technical Skills: MySQL, SQL, AWS, PHP.
+#### Technical Skills: MySQL, SQL, AWS, PHP, HTML, CSS, Node.js, React.js, Woocomerce, Magento.
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Sr Shopify Developer @ VML (UK) (_Jan 2024 - Present_)**
+- In-depth knowledge of Shopify's Liquid templating language.
+- Experience with Shopify theme development and customization.
+- Understanding of the new features and improvements introduced in Shopify Checkout 2.0.
+- Ability to work with enhanced functionality, including dynamic checkout buttons, local
+payment methods, and accelerated checkout options.
+- Experience with responsive web design to ensure a seamless user experience across various
+devices.
+- Experience with Shopify API to integrate third-party services and applications.
+- Knowledge of GraphQL, as Shopify Checkout 2.0 uses GraphQL for building more efficient APIs.
+- Expertise in integrating various payment gateways supported by Shopify.
+- Familiarity with handling payment flows, subscription models, and order processing.
+- Awareness of security best practices, especially when dealing with sensitive customer information
+during the checkout process.
+- Ability to optimize the performance of the checkout process for speed and reliability.
+- Understanding of techniques to reduce page load times and enhance user experience.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Sr Shopify Developer @ Wunderman Thompson Commerce (UK) (_June 2022 - Jan 2024_)**
+- Maintenance, launch, and shop construction expertise and also have a general understanding of
+the admin system.
+- Shopify Plus Checkout Extension Development and Custom and Public App.
+- Manage Shopify project’s scope and timeline estimations
+- Agile Tools: JIRA, Basecamp.
+- Work closely with project owners in backlog management and continuous delivery of features.
+- Working knowledge in 3rd-party APIs and services along with Shopify apps.
+- Experience with product/customer/order import and export management
+- Knowledge in data migration and synchronization between Shopify instances.
+- Experience in creating responsive and unique layouts for mobile devices, tablets, and desktops.
+- Working knowledge in liquid templating and theming system of Shopify.
+
+ **Sr Shopify Developer @ Like Digital & Partners (UAE-Remote) (_Dec 2021 - Mar 2022_)**
+- Shopify Customization with Liquid code and develop website from scratch and building highquality, responsive Shopify stores.
+- Experience with product/customer/order import and export management.
+- Working knowledge in data migration WooCommerce and Magento.
+- Worked on multilingual and multi-currency Shopify websites.
+
+**Shopify Developer @ Flexsin Inc (India) (_May 2017 - Dec 2021_)**
+- Create Custom and Public App development in PHP and Node.js.
+- Shopify Customization with Liquid code developing a website from scratch and building high-quality, responsive Shopify stores with extensive knowledge of LIQUID (Shopify’s templating
+language).
+- Create Custom and Public App development in PHP and Node.js.
+- Knowledge of JavaScript (jQuery, JSON), HTML5, and CSS/SASS/SCSS.
+- GIT/Version Control. Knowledge of Cross- browser HTML5+, ES6+ and CSS3+ (SCSS)
+- Study the use cases and project documentation, understanding and analyzing
+
+**Web Developer @ Qtriangle Infotech Pvt Ltd (India) (_ 2015 - May 2017_)**
+- Experience building a variety of different web applications and sites.
+- Frameworks: BootStrap, WordPress Multisite. Writing custom PHP packages.
+- Provide feedback to the development group to improve
+- Agile Project management methods.
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
@@ -27,9 +70,9 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 ![Bike Study](/assets/img/bike_study.jpeg)
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- MCA, Computer Science	| Indira Gandhi National Open University Delhi (_Dropout 2018_)
+- BCA, Computer Science | Chaudhary Charan Singh University Meerut (_Completed 2014_)			       		
+
 - 
 ## Talks & Lectures
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
