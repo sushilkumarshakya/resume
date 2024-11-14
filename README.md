@@ -1,6 +1,6 @@
 # Sr. Shopify Developer and and Consultant
 
-#### Technical Skills: Shopify, Shopify Plus, Liquid Programming, Custom Shopify theme development, Shopify API integration, MySQL, SQL, AWS, PHP, HTML, CSS, Node.js, React.js, Woocomerce, Magento, and Bootstrap.
+#### Technical Skills: Shopify, Shopify Plus+, Liquid Programming, Custom Shopify theme development, Shopify API integration, MySQL, SQL, AWS, PHP, HTML, CSS, Node.js, React.js, Woocomerce, Magento, and Bootstrap.
 
 ## Work Experience
 **Sr Shopify Developer @ VML (UK) (_Jan 2024 - Present_)**
